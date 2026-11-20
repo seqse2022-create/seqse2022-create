@@ -26,7 +26,7 @@
  —— 解决了csv表格重复行,与空值处理的问题
     `Python` `pandas`
 
-6. [Text-Cleaning-Too](https://github.com/seqse2022-create/Text-Cleaning-Tool)
+6. [Text-Cleaning-Tool](https://github.com/seqse2022-create/Text-Cleaning-Tool)
  —— 解决了html文件大量无效字符影响文字获取等问题
     `Python` `re`
 
