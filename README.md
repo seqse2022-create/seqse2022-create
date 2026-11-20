@@ -23,7 +23,7 @@
     `Python` `functools` `time`
 
 5. [Table-Cleaning-Tool](https://github.com/seqse2022-create/Table-Cleaning-Tool)
- —— 解决了csv表格重复行,与空值处理的问题 57 → 55 行
+ —— 解决了csv表格重复行,与空值处理的问题  测试中3行表格1个重复行,经清洗后len为2行
     `Python` `pandas`
 
 6. [Text-Cleaning-Tool](https://github.com/seqse2022-create/Text-Cleaning-Tool)
